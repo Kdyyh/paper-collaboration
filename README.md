@@ -4,16 +4,35 @@
 
 ## 论文总目录
 
-新增论文时先在下表登记；同一篇论文只保留一条记录。多位成员阅读同一篇论文时，在同一行补充各自的资料文件夹链接。
+按领域分类汇总，点击论文题目即可打开论文。
 
-| 论文编号 | 论文名称 | 年份 / 会议 | 方向 / 关键词 | 论文链接 | 已读成员及阅读资料 |
-| --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |
+### AI + 教育
 
-- 论文链接统一填写在本表，优先使用论文官网、arXiv 或 DOI 链接。
-- “已读成员及阅读资料”链接到相应成员的这篇论文资料夹，其中可以包含 PPT、阅读笔记、图片等。
-- 尚未读完时可以先登记论文链接；完成阅读后再添加已读成员及资料链接。
-- 论文编号按 `P001`、`P002` 等顺序添加，便于将总目录与阅读资料对应起来。
+| 论文题目（论文链接） | 官方代码 / 项目 | 领域 |
+| --- | --- | --- |
+| P001 · [AgentTutor: Empowering Personalized Learning with Multi-Turn Interactive Teaching in Intelligent Education Systems](https://arxiv.org/abs/2601.04219) | 暂未找到官方公开代码 | AI + 教育 |
+| P002 · [From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents](https://arxiv.org/abs/2409.03512) | [OpenMAIC（官方项目）](https://github.com/THU-MAIC/OpenMAIC) | AI + 教育 |
+| P003 · [EduAgent: Generative Student Agents in Learning](https://arxiv.org/abs/2404.07963) | [GitHub](https://github.com/EduAgent/EduAgent) | AI + 教育 |
+| P004 · [Are Agents Ready to Teach? A Multi-Stage Benchmark for Real-World Teaching Workflows](https://arxiv.org/abs/2605.14322) | [TeachArena（代码与数据）](https://huggingface.co/datasets/CinderD/TeachArena) | AI + 教育 |
+
+### AI + 工业
+
+| 论文题目（论文链接） | 官方代码 / 项目 | 领域 |
+| --- | --- | --- |
+| P005 · [Towards autonomous system: flexible modular production system enhanced with large language model agents](https://arxiv.org/abs/2304.14721) | [GitHub](https://github.com/YuchenXia/GPT4IndustrialAutomation) | AI + 工业 |
+| P006 · [From Detection to Action: Using LLM Agents for Fault-Tolerant Control](https://arxiv.org/abs/2606.28011) | [GitHub](https://github.com/AISL-at-Imperial-College-London/ctrl-alt-recover) | AI + 工业 |
+| P007 · [An open-weight Large Language Model agent for condition monitoring and predictive maintenance in wind energy systems](https://doi.org/10.1016/j.egyai.2026.100828) | [GitHub](https://github.com/agushasan/LLM_Wind) | AI + 工业 |
+
+### AI + 旅游
+
+| 论文题目（论文链接） | 官方代码 / 项目 | 领域 |
+| --- | --- | --- |
+| P008 · [TravelPlanner: A Benchmark for Real-World Planning with Language Agents](https://proceedings.mlr.press/v235/xie24j.html) | [GitHub](https://github.com/OSU-NLP-Group/TravelPlanner) | AI + 旅游 |
+| P009 · [TravelAgent: An AI Assistant for Personalized Travel Planning](https://arxiv.org/abs/2409.08069) | 暂未找到官方公开代码 | AI + 旅游 |
+| P010 · [TRIP-PAL: Travel Planning with Guarantees by Combining Large Language Models and Automated Planners](https://arxiv.org/abs/2406.10196) | 暂未找到官方公开代码 | AI + 旅游 |
+| P011 · [HiMAP-Travel: Hierarchical Multi-Agent Planning for Long-Horizon Constrained Travel](https://proceedings.mlr.press/v306/bui26b.html) | 暂未找到官方公开代码 | AI + 旅游 |
+
+代码 / 项目链接核对日期：2026-11-04。论文编号用于对应成员各自的阅读资料文件夹。
 
 ## 成员阅读资料
 
@@ -49,11 +68,11 @@ paper-collaboration/
 
 ## 使用流程
 
-1. **添加论文链接**：编辑本页，在“论文总目录”中登记论文编号、名称和链接。
+1. **添加论文链接**：编辑本页，在“论文总目录”的对应领域表格中登记论文编号、题目、论文链接和官方代码链接。
 2. **创建个人目录**：首次加入时，用 **Add file → Create new file** 创建 `members/你的GitHub用户名/README.md`，并将个人目录加入本页的成员表。
 3. **按论文建文件夹**：例如新建 `members/你的GitHub用户名/P001_论文简称/README.md`，可复制[单篇论文阅读记录模板](templates/paper-reading/README.md)。
 4. **上传阅读资料**：进入这篇论文的文件夹，通过 **Add file → Upload files** 上传对应的 PPT、笔记和附件。
-5. **记录已读情况**：阅读完成后更新自己的成员 README，并在本页该论文的“已读成员及阅读资料”一栏添加自己的资料夹链接。
+5. **记录已读情况**：阅读完成后更新自己的成员 README，记录论文编号及对应的 PPT、笔记资料夹链接。
 
 ## 协作约定
 
