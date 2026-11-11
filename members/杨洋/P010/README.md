@@ -14,7 +14,7 @@
 | 资料类型 | 文件链接 |
 | -------- | -------- |
 | 阅读 PPT | 暂无     |
-| 阅读笔记 | 暂无     |
+| 阅读笔记 | [阅读笔记](https://github.com/Kdyyh/paper-collaboration/blob/main/members/%E6%9D%A8%E6%B4%8B/P010/TRIP-PAL_%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0.md)     |
 | 其他附件 | 暂无     |
 
 ## 阅读笔记
