@@ -1,0 +1,20 @@
+# 莫涛 的论文阅读记录
+
+本目录按读过的论文分别建文件夹；每个论文资料夹集中保存这篇论文的阅读 PPT、笔记和附件。
+
+所有论文的原文链接统一维护在[仓库首页的论文总目录](../../README.md#论文总目录)中。
+
+## 已读论文与阅读资料
+
+阅读完成后在下表登记，并链接到对应论文资料夹。
+
+| 论文编号 | 论文名称 | 阅读完成日期 | 资料文件夹 | 已上传资料 |
+| --- | --- | --- | --- | --- |
+| P001 | [**AgentTutor: Empowering Personalized Learning with Multi-Turn Interactive Teaching in Intelligent Education Systems**](https://arxiv.org/abs/2601.04219) | 2026/11/05 | [P001_AgentTutor](P001_AgentTutor/) | [阅读笔记](P001_AgentTutor/AgentTutor阅读笔记.md) |
+
+## 新增一篇论文的阅读资料
+
+1. 在仓库首页确认或添加这篇论文的编号和原文链接。
+2. 在本目录下新建 `P001_论文简称/README.md`，可复制[单篇论文阅读记录模板](../../templates/paper-reading/README.md)。
+3. 进入这篇论文的文件夹，上传它的阅读 PPT、笔记及附件。
+4. 阅读完成后，在本页和首页论文总目录补充阅读记录与资料夹链接。

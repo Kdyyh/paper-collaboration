@@ -39,6 +39,7 @@
 | 成员 | 个人阅读目录 |
 | --- | --- |
 | [Kdyyh](https://github.com/Kdyyh) | [阅读记录与资料](members/Kdyyh/README.md) |
+| 莫涛 | [阅读记录与资料](members/莫涛/README.md) |
 
 目录按“成员 → 读过的论文 → 这篇论文的资料”组织：
 
