@@ -8,6 +8,9 @@
 
 阅读完成后在下表登记，并链接到对应论文资料夹。
 
-| 论文编号 | 论文名称                                                     | 阅读完成日期 | 资料文件夹 | 已上传资料 |
-| -------- | ------------------------------------------------------------ | ------------ | ---------- | ---------- |
-| P010     | [**TRIP-PAL: Travel Planning with Guarantees by Combining Large Language**](https://arxiv.org/pdf/2406.10196) |      2026/11/11        |    [P010](https://github.com/Kdyyh/paper-collaboration/tree/main/members/%E6%9D%A8%E6%B4%8B/P010_TRIP-PAL)        |      [阅读笔记](https://github.com/Kdyyh/paper-collaboration/blob/main/members/%E6%9D%A8%E6%B4%8B/P010/TRIP-PAL_%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0.md)      |
+| 论文编号 | 论文名称                                                     | 阅读完成日期 | 资料文件夹                                                   | 已上传资料                                                   |
+| -------- | ------------------------------------------------------------ | ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| P010     | [**TRIP-PAL: Travel Planning with Guarantees by Combining Large Language**](https://arxiv.org/pdf/2406.10196) | 2026/11/11   | [P010](https://github.com/Kdyyh/paper-collaboration/tree/main/members/%E6%9D%A8%E6%B4%8B/P010_TRIP-PAL) | [阅读笔记](https://github.com/Kdyyh/paper-collaboration/blob/main/members/%E6%9D%A8%E6%B4%8B/P010/TRIP-PAL_%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0.md) |
+| P011     | [**HiMAP-Travel: Hierarchical Multi-Agent Planning for Long-Horizon**](https://proceedings.mlr.press/v306/bui26b.html) | 2026/11/19   | [P011](https://github.com/Kdyyh/paper-collaboration/tree/main/members/%E6%9D%A8%E6%B4%8B/P011_HIMAP-Travel) | 无                                                           |
+
+
